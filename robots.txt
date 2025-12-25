@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dh7tergene.adamdh7.org/sitemap.xml
